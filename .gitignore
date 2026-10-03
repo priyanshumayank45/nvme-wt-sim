@@ -1,0 +1,27 @@
+# Compiled executable
+nvme_wt_sim
+
+# Object files
+*.o
+
+# Build files
+build/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated results
+results/*.csv
+results/*.png
+
+# Temporary files
+*.tmp
+*.log
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
